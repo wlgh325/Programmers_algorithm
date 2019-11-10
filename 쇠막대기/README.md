@@ -7,14 +7,14 @@
 stack은 java.util.Stack을 import하면 사용할 수 있습니다.
 
 ## 자바 stack의 사용법
-'''
+```
 import java.util.Stack;
 Stack<Integer> stack = new Stack<>();   // stack 선언
 stack.push(1);  // stack에 1 넣기
 stack.push(2);  // stack에 2 넣기
 int num = stack.pop();  // stack의 맨 위의 값 꺼내기
 int top_num = stack.peek(); // 값을 꺼내지 않고 stack의 맨 위의 값 확인
-'''
+```
 
 - 스택을 선언할때 <>안에 다른 자료형을 써서 다른 자료형을 넣을 수 있다.
 - ex) Stack<Character> stack = new Stack<>();
