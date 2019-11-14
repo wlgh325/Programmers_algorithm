@@ -2,9 +2,11 @@
 ## LEVEL 2 다리를 지나는 트럭 스택/큐 문제 자바(JAVA) 풀이
 - https://programmers.co.kr/learn/courses/30/lessons/42583
 
+```
 이 문제는 큐(Queue)를 이용하여 풀 수 있는 문제입니다.
 자바에서 기본으로 주어지는 queue을 이용하여 풀면 됩니다.
 stack은 java.util.Queue와 java.util.LinkedList를 import하면 사용할 수 있습니다.
+```
 
 ## 자바 queue의 사용법
 ```

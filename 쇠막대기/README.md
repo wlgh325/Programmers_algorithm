@@ -2,9 +2,15 @@
 ## LEVEL 2 쇠막대기 스택/큐 문제 자바(JAVA) 풀이
 - https://programmers.co.kr/learn/courses/30/lessons/42585
 
+## 티스토리 주소
+- http://hoho325.tistory.com/
+
+
+```
 이 문제는 스택을 이용하는 문제입니다.
 자바에서 기본으로 주어지는 stack을 이용하여 풀면 됩니다.
 stack은 java.util.Stack을 import하면 사용할 수 있습니다.
+```
 
 ## 자바 stack의 사용법
 ```
