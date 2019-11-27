@@ -1,5 +1,5 @@
 # 프로그래머스(Programmers) 코딩테스트 연습
-## LEVEL 2 예산 서머코딩/윈터코등(~2018) 문제 자바(JAVA) 풀이
+## LEVEL 1 예산 서머코딩/윈터코등(~2018) 문제 자바(JAVA) 풀이
 - https://programmers.co.kr/learn/courses/30/lessons/12982
 
 ## 티스토리 주소
