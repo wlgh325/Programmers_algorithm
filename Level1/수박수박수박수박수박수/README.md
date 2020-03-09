@@ -1,6 +1,6 @@
 # 프로그래머스(Programmers) 코딩테스트 연습
-## LEVEL 1 문자열 내 마믐대로 정렬하기 연습문제 자바(java) 풀이
-[프로그래머스 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+## LEVEL 1 수박수박수박수박수박수? 연습문제 자바(java) 풀이
+[프로그래머스 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 
 # [티스토리 주소](http://hoho325.tistory.com/)
 
