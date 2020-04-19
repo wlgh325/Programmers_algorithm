@@ -10,12 +10,9 @@ class Solution {
     public static int solution(int n) {
         int ans = 0;
         
-        while(true){
-            ans += n % 10;
+        while(n >= 10){
+            list.add(n % 10);
             n /= 10;
-            
-            if(n<10)
-                break;
         }
         ans += n;
         return ans;
