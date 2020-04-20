@@ -1,6 +1,6 @@
-# <span style="color:orange; font-size:17pt; font-weight:bold">프로그래머스 연습문제 제일 작은 수 제거하기 자바 풀이</span>
+# <span style="color:orange; font-size:17pt; font-weight:bold">프로그래머스 연습문제 x만큼 간격이 있는 n개의 숫자 자바 풀이</span>
 - Level 1
-- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
+- [ x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
 <br><br>
 
 ## [티스토리 주소](https://hoho325.tistory.com/)
