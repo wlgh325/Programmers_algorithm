@@ -17,7 +17,7 @@
 6. 모든 장르는 재생된 횟수가 다르다. => 같은 재생횟수를 가지지 않는다
 <br><br>
 
-# <span style="color: red; font-size:15pt">Greedy 풀이(Solution)</span>
+# <span style="color: red; font-size:15pt">문제 풀이</span>
 HashMap 자료구조를 이용하여 문제를 풀 수 있습니다.
 1. map2는 장르별 합을 저장하기 위해 사용합니다.
 2. map은 장르별 곡의 정보를 담는 arraylist를 담습니다. Info는 곡의 순서 정보와 플레이 횟수를 담습니다.

@@ -12,7 +12,7 @@
 2. 논문별 인용 횟수는 0회 이상 10,000회 이하이다.
 <br><br>
 
-# <span style="color: red; font-size:15pt">Greedy 풀이(Solution)</span>
+# <span style="color: red; font-size:15pt">문제 풀이</span>
 문제 그대로 풀이 하면됩니다. 쉽게 풀이하기 위해서 우선 오름차순으로 정렬합니다.
 1. 인용횟수 0번 부터 제일 큰 인용횟수(citations[len-1]) 까지 모두 해봅니다
 2. 인용횟수 h번 보다 큰 인용횟수들을 카운트 합니다(cnt)
