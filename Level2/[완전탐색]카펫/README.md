@@ -14,7 +14,7 @@
 4. 카펫의 가로 길이 >= 세로길이
 <br><br>
 
-# <span style="color: red; font-size:15pt">Greedy 풀이(Solution)</span>
+# <span style="color: red; font-size:15pt">문제 풀이(Solution)</span>
 1. 카펫의 갈색의 개수와 빨간색의 개수를 더하여 카펫에서 총 격자의 개수를 구합니다.
 2. 총 격자 개수의 약수의 쌍을 구합니다. brown=10, red=2 인 경우 총 격자의 개수는 12입니다.
 ```
