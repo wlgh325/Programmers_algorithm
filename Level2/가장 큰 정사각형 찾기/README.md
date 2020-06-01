@@ -54,7 +54,7 @@ public static  int solution(int [][]board) {
 ```
 <br><br>
 
-# <span style="color: red; font-size:15pt">naive한 문제 풀이</span>
+# <span style="color: red; font-size:15pt">DP 방식 풀이</span>
 그래서 이전의 길이를 저장할 필요가 있다고 생각하였고 dp 방식으로 풀어보려 했습니다.  
 정사각형의 크기를 우측 하단을 기준으로 찾아갑니다.  
 아래와 같이 있다고 가정하겠습니다.
