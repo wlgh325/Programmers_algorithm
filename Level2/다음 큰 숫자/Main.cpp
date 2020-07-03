@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>	// string type
 using namespace std;
 
 int n;

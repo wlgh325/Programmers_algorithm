@@ -30,7 +30,7 @@ sstream 헤더에 있는 istringstream 을 이용해서 나눌 수 있다.
     '/'기준 getlin(ss, sb, '/');
 <br><br>
 
-# <span style="color: red; font-size:15pt">c++ 숫자 <-> 문자 </span>
+# <span style="color: red; font-size:15pt">c++ 숫자 - 문자 </span>
 1.1 숫자를 문자로 (c style)
 ```
 #include <stdlib.h> // #include <cstdlib>
